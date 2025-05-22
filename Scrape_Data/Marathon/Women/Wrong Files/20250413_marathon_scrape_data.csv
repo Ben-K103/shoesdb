@@ -1,0 +1,25 @@
+﻿scrape_id,shoe_sku,price,discount_1_text,discount_1_weighted,discount_2_text,discount_2_weighted,discount_3_text,discount_3_weighted,uk_size_5,uk_size_5_5,uk_size_6,uk_size_6_5,uk_size_7,uk_size_7_5,uk_size_8,uk_size_8_5,uk_size_9,uk_size_9_5,uk_size_10,page_ranking,website,scrape_time
+0,1HK1162031FGZ,1199.0,No Discount,1.0,No Discount,1.0,No Discount,1.0,1,2,2,2,2,2,2,0,0,0,0,0,0,2025-04-13
+1,1HK1162050WWH,1199.0,No Discount,1.0,No Discount,1.0,No Discount,1.0,2,2,2,2,2,2,2,1,0,0,0,1,0,2025-04-13
+2,1HK1162031CTNS,1199.0,No Discount,1.0,No Discount,1.0,No Discount,1.0,2,2,2,2,2,2,2,0,0,0,0,2,0,2025-04-13
+3,1HK1162050BBLC,1199.0,No Discount,1.0,No Discount,1.0,No Discount,1.0,2,2,2,2,2,2,2,1,0,0,0,3,0,2025-04-13
+4,185125053WHT,899.0,Buy 2 Get 20% Off,0.8,Buy 3 Get 30% Off,0.7,VIP 15% Off,0.85,0,2,0,2,0,2,0,0,0,0,0,4,0,2025-04-13
+5,185129472BKSL,899.0,Buy 2 Get 20% Off,0.8,Buy 3 Get 30% Off,0.7,VIP 15% Off,0.85,0,2,0,2,0,2,0,0,0,0,0,5,0,2025-04-13
+6,185129472GYLV,899.0,Buy 2 Get 20% Off,0.8,Buy 3 Get 30% Off,0.7,VIP 15% Off,0.85,0,2,0,2,0,2,0,0,0,0,0,6,0,2025-04-13
+7,17A3WF10061200,1190.0,No Discount,1.0,No Discount,1.0,No Discount,1.0,2,2,2,2,2,1,0,0,0,0,0,7,0,2025-04-13
+8,108JH7212,799.0,VIP 10% Off,0.9,No Discount,1.0,No Discount,1.0,2,2,2,2,2,2,0,0,0,0,0,8,0,2025-04-13
+9,1HK1162031VCH,1199.0,No Discount,1.0,No Discount,1.0,No Discount,1.0,2,2,2,2,2,2,2,0,0,0,0,9,0,2025-04-13
+10,108JH7213,799.0,VIP 10% Off,0.9,No Discount,1.0,No Discount,1.0,2,2,2,2,2,2,0,0,0,0,0,10,0,2025-04-13
+11,17A3WF10061043,1190.0,No Discount,1.0,No Discount,1.0,No Discount,1.0,2,2,2,1,2,1,0,0,0,0,0,11,0,2025-04-13
+12,1HK1162031WWH,1199.0,No Discount,1.0,No Discount,1.0,No Discount,1.0,2,2,2,2,2,2,2,0,0,0,0,12,0,2025-04-13
+13,1HK1162031WTCL,1199.0,No Discount,1.0,No Discount,1.0,No Discount,1.0,2,2,2,2,2,2,2,0,0,0,0,13,0,2025-04-13
+14,1HK1162031BBLC,1199.0,No Discount,1.0,No Discount,1.0,No Discount,1.0,2,2,2,2,2,2,2,0,0,0,0,14,0,2025-04-13
+15,108ID3767,599.0,VIP 10% Off,0.9,No Discount,1.0,No Discount,1.0,0,0,0,2,2,2,2,2,2,2,2,15,0,2025-04-13
+16,108ID3836,599.0,VIP 10% Off,0.9,No Discount,1.0,No Discount,1.0,0,0,0,2,2,2,2,2,2,2,2,16,0,2025-04-13
+17,108IE1221,499.0,VIP 10% Off,0.9,No Discount,1.0,No Discount,1.0,0,0,0,2,2,2,2,2,2,2,2,17,0,2025-04-13
+18,108JR6354,1699.0,No Discount,1.0,No Discount,1.0,No Discount,1.0,2,2,2,2,2,2,0,0,0,0,0,18,0,2025-04-13
+19,108ID1330,599.0,VIP 10% Off,0.9,No Discount,1.0,No Discount,1.0,0,0,0,2,2,2,2,2,2,2,2,19,0,2025-04-13
+20,108ID9045,599.0,VIP 10% Off,0.9,No Discount,1.0,No Discount,1.0,0,0,0,2,2,2,2,2,2,2,2,20,0,2025-04-13
+21,112U530NEA,799.0,Buy 1 Get 10% Off,0.9,Buy 2 Get 20% Off,0.8,No Discount,1.0,2,2,2,2,2,2,2,2,2,2,0,21,0,2025-04-13
+22,112U530NEB,799.0,Buy 1 Get 10% Off,0.9,Buy 2 Get 20% Off,0.8,No Discount,1.0,2,2,2,2,0,0,0,0,0,0,0,22,0,2025-04-13
+23,112WS327FTA,849.0,Buy 1 Get 10% Off,0.9,Buy 2 Get 20% Off,0.8,No Discount,1.0,2,2,2,2,2,2,0,0,0,0,0,23,0,2025-04-13
